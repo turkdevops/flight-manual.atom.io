@@ -2,7 +2,7 @@
   "description": "Atom docs",
   "private": true,
   "dependencies": {
-    "gulp": "^4.0.0",
+    "gulp": "^4.0.2",
     "gulp-coffee": "^3.0.3",
     "gulp-concat": "^2.6.0",
     "gulp-connect": "5.7.0",
