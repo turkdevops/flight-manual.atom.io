@@ -10,7 +10,7 @@
   "keywords": ["mustache", "template", "templates", "ejs"],
   "main": "./mustache.js",
   "devDependencies": {
-    "mocha": "8.2.0"
+    "mocha": "8.3.0"
   },
   "volo": {
     "url": "https://raw.github.com/janl/mustache.js/0.7.3/mustache.js"
