@@ -8,7 +8,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
-    asciidoctor (1.5.7.1)
+    asciidoctor (1.5.8)
     coderay (1.1.2)
     colored (1.2)
     colorize (0.8.1)
